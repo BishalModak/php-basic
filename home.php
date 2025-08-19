@@ -15,6 +15,6 @@ step-2 : session_create[];, session ArrayAccess
 steo-3 : session_unset()
 session_destroy()
 
-
 //cookie setup
+
 ?>

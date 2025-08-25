@@ -8,7 +8,7 @@ include('includes/navber.php');
     <div class="row justify-content-center mt-5"> 
         <div class="col-sm-10 col-md-8 col-lg-5 col-xl-4"> 
             
-            <form action="insert.php" method="post" class="p-4 bg-white shadow rounded">
+            <form action="loginaction.php" method="post" class="p-4 bg-white shadow rounded">
                 
                 <div class="mb-4">
                     <h4 class="text-center text-primary">Login Here</h4> </div>

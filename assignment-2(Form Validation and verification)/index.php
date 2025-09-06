@@ -2,7 +2,6 @@
 include('includes/header.php');
 include('includes/navber.php');
 
-// Start session and show welcome message if logged in
 session_start();
 if(isset($_SESSION['uname'])){
     echo "<div class='container py-3'>";
